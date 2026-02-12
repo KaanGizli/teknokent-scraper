@@ -1,0 +1,26 @@
+{
+  "name": "teknokent-scraper-api",
+  "version": "1.0.0",
+  "description": "Teknokent firma bilgilerini toplayan RESTful API servisi",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "node --experimental-vm-modules node_modules/vitest/vitest.mjs --run"
+  },
+  "keywords": ["teknokent", "scraper", "express", "api"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0",
+    "supertest": "^6.3.0"
+  }
+}
