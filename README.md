@@ -98,7 +98,7 @@ teknokent-scraper/
 
 ### 1. Repo'yu klonla
 ```bash
-git clone https://github.com/<username>/teknokent-scraper.git
+git clone https://github.com/KaanGizli/teknokent-scraper.git
 cd teknokent-scraper
 ```
 
