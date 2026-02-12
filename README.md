@@ -1,4 +1,4 @@
-# 🎯 TeknoHunter
+#  TeknoHunter
 
 > **Hayalindeki İşe Bir Adım Daha Yakın**
 
@@ -12,7 +12,7 @@ Türkiye'deki üniversite teknokentlerinde faaliyet gösteren firmaların bilgil
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - **🔍 Otomatik Scraping** — Teknokent sitelerinden firma bilgilerini otomatik çeker
 - **📊 Dashboard** — İstatistikler ve grafiklerle veri görselleştirme
@@ -21,7 +21,7 @@ Türkiye'deki üniversite teknokentlerinde faaliyet gösteren firmaların bilgil
 - **⚡ Canlı Progress** — Scraping işlemini gerçek zamanlı takip
 - **🌙 Dark Theme** — Modern, vibrant gradientler ve glassmorphism tasarım
 
-## 🏛️ Desteklenen Teknokentler
+##  Desteklenen Teknokentler
 
 | Teknokent | Şehir | Durum |
 |---|---|---|
@@ -90,7 +90,7 @@ teknokent-scraper/
 | `GET` | `/api/scrape/history` | Scrape geçmişi |
 | `GET` | `/api/export/excel` | Excel dosyası indir |
 
-## 🚀 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 ### Gereksinimler
 - Node.js v18+
@@ -118,17 +118,14 @@ npm run dev
 ```
 Uygulama `http://localhost:5173` adresinde açılır.
 
-## 📸 Kullanım
+##  Kullanım
 
 1. **Dashboard** — Genel istatistikleri ve grafikleri görüntüleyin
 2. **Scraper** — Bir teknokent seçip scraping başlatın
 3. **Firmalar** — Toplanan verileri arayın, filtreleyin
 4. **Excel Export** — Firma listesini Excel olarak indirin
 
-## 📄 Lisans
+**Not:** Scraping işlemi uzun sürebilir. Özellikle büyük teknokentlerde.
+**Not:** Farklı teknokentler için farklı işlem uygulanmalıdır, katkıda bulunabilirsiniz.
 
-MIT License
-
----
-
-> 🎯 *"Hayalindeki İşe Bir Adım Daha Yakın"*
+>  *"Hayalindeki İşe Bir Adım Daha Yakın"*
